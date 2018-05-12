@@ -1,0 +1,42 @@
+_repo: By-Right-of-Conquest--A-Novel_33187
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gunn, Archie
+    alias: Gunn, Archibald
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '36251'
+    url: http://www.gutenberg.org/2009/agents/36251
+  - agent_name: Grunwald, Charles
+    alias: Grünwald, Ch. (Charles)
+    gutenberg_agent_id: '36252'
+    url: http://www.gutenberg.org/2009/agents/36252
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hornblow, Arthur
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '6570'
+    url: http://www.gutenberg.org/2009/agents/6570
+description: ''
+gutenberg_issued: '2010-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwreck survival -- Fiction'
+- !lcsh 'Robinsonades'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PS'
+title: 'By Right of Conquest: A Novel'
+url: http://www.gutenberg.org/ebooks/33187
